@@ -1,0 +1,13 @@
+New log file opened at Mon Jan 30 19:31:11 PST 2017 by 634@Jayons-MacBook-Air.local
+Taking next connection to: 49298
+New client attempting to connect on port: 49299-49298
+  Address = /10.0.1.27:49298
+This client on port 49299 has uuid cd0e3232-98a5-4d0c-a7bd-c81b342a9c2f configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-cd0e3232-98a5-4d0c-a7bd-c81b342a9c2f
+Taking next connection to: 49298
+Checking to see if clients are empty...
+No non-daemon clients connected after 3 min. Shutting down.
+Server socket thread exiting.
+0 clients open, will close them...
+All client sockets have been closed.
+Closing the 634@Jayons-MacBook-Air.local logs at Mon Jan 30 19:34:11 PST 2017, goodbye.
